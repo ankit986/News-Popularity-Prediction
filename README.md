@@ -3,7 +3,7 @@ News Popularity Preiction with 13 different dataset, 12 timespan dataset and 1 d
 
 
 ## Table of Content
-  * [Abstract](##Abstract)
+  * [Abstract](#Abstract)
   * [Motivation](#motivation)
   * [Technical Aspect](#technical-aspect)
   * [Installation](#installation)
@@ -95,5 +95,13 @@ Tuning of hyperparameters is necessary for modeling to obtain better accuracy an
 
 ## 9. Metrics Evaluation
 We used some of the metrics valuation techniques like **MSE, RMSE, R2 Score, Adjusted R2, RMLSE**, to obtain the accuracy and error rate of our models before and after hyperparameter tuning.
+
+
+
+![image](https://user-images.githubusercontent.com/35359451/134615300-a0d2a597-4195-4691-bf04-9eff13a2d58c.png)
+![image](https://user-images.githubusercontent.com/35359451/134615402-ed7a3c28-c192-47e5-85b8-f356b223477d.png)
+![image](https://user-images.githubusercontent.com/35359451/134615469-f41fde4e-f2a6-4f6b-8da2-307cd5379337.png)
+![image](https://user-images.githubusercontent.com/35359451/134615492-d517fe35-766e-4099-b3e6-50227061d9ab.png)
+![image](https://user-images.githubusercontent.com/35359451/134615610-75a2324a-7aa9-48df-8209-45b5b2b08408.png)
 
 
